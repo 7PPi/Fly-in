@@ -150,7 +150,7 @@ class Engine:
             turns += 1
             if finished < len(drones):
                 print("Turn number", turns)
-#                sleep(1)
+                sleep(1.2)
                 system("clear")
 
         print(
